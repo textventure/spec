@@ -1,7 +1,8 @@
 {
   "version": "0.0.0",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "release:dry-run": "npm run release -- --dry-run"
   },
   "devDependencies": {
     "standard-version": "4.4.0"

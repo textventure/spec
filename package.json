@@ -8,7 +8,8 @@
     "scripts": {
       "postbump": "sed -i '' 's/`.*`/`'$(node -p \"require('./package').version\")'`/; s/(.*)/('$(date +%F)')/' VERSION.md",
       "postcommit": "git add VERSION.md && git commit --amend --no-edit"
-    }
+    },
+    "tagPrefix": ""
   },
   "devDependencies": {
     "standard-version": "4.4.0"

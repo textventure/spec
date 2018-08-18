@@ -33,6 +33,7 @@ _config:
 ```
 
 | Key | Value(s) | Description |
+| :--- | :--- | :--- |
 | start | start (_default_)<br>\* | String. The start \<id>. |
 | renderer | text (_default_)<br>html<br>markdown | String. Renderer for \<text> and \<choice>. |
 

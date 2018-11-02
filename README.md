@@ -44,7 +44,7 @@ Given the flowchart:
 <!--
 https://gist.github.com/remarkablemark/30d3974972e6fc3348fe3c58136e5aaa
 -->
-<img src="https://textventure.org/assets/2018/2018-08-12-textventure-spec-example-flowchart.svg" alt="Flowchart of a textventure" width="430px">
+<img src="https://textventure.org/static/2018/2018-08-12-textventure-spec-example-flowchart.svg" alt="Flowchart of a textventure" width="430px">
 
 The textventure would be written as:
 ```yaml

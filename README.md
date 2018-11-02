@@ -1,6 +1,6 @@
 # Introduction
 
-This document is the specification for Textventure.
+This document is the specification for [textventure](https://textventure.org).
 
 # Format
 
@@ -44,7 +44,7 @@ Given the flowchart:
 <!--
 https://gist.github.com/remarkablemark/30d3974972e6fc3348fe3c58136e5aaa
 -->
-<img src="https://cdn.rawgit.com/remarkablemark/30d3974972e6fc3348fe3c58136e5aaa/raw/635a72331640d3a30879aaf1451d091f6064b3fd/textventure-spec-example-flowchart.svg" alt="Flowchart of a textventure" width="430px">
+<img src="https://textventure.org/assets/2018/2018-08-12-textventure-spec-example-flowchart.svg" alt="Flowchart of a textventure" width="430px">
 
 The textventure would be written as:
 ```yaml

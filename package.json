@@ -4,6 +4,10 @@
     "release": "standard-version",
     "release:dry-run": "npm run release -- --dry-run"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/textventure/spec"
+  },
   "standard-version": {
     "scripts": {
       "postbump": "sed -i '' 's/`.*`/`'$(node -p \"require('./package').version\")'`/; s/(.*)/('$(date +%F)')/' VERSION.md",
